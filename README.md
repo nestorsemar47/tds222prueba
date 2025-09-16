@@ -1,2 +1,10 @@
 # tds222prueba
-repositorio para clase tds22
+repositorio para clase tds222
+
+hola 
+
+
+
+
+
+
